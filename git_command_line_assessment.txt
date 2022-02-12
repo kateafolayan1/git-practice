@@ -1,0 +1,46 @@
+
+						My Git Terminals
+
+
+
+git rm
+This command deletes the file from your working directory and stages the deletion.
+
+git log
+This command is used to list the version history for the current branch.
+
+git status  
+This command lists all the files that have to be committed.
+
+git push
+This command sends the committed changes of master branch to your remote repository.
+
+git pwd
+This command prints working directory
+
+git cd
+This command changes directory in front or behide
+
+git ls
+This command list in order to see whats in the folder
+
+git mv
+This command move
+
+git cp
+This command copy
+
+git mkdir
+This command makes directory that is creating a new folder
+
+git touch
+This command create a file
+
+git cd space.. 
+This command is to go back home
+
+git cd..
+This command is to home
+
+git cd space../..
+This command is to go back to the grand parent home
